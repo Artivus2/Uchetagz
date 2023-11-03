@@ -4,3 +4,10 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+vendor/*
+vagrant/*
+config/*
+app/*
+app2/*
+runtime/*
+tests/*
