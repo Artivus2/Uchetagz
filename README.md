@@ -1,2 +1,2 @@
 # Uchetagz
-Uchetagz_yii2_vue3
+Учет аэрогазового оборудования стэк php yii2, vue3, mysql (в разработке)
